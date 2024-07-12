@@ -1,0 +1,21 @@
+
+footer{
+    position: relative;
+    width: 100%;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 14px;
+    text-align: center;
+    padding: 3px;
+    }
+
+    textarea {
+    height: 90px;
+    width: 100%;
+    resize: none;
+    }
+
+    div ul li :hover{
+    border-bottom: 2px solid rgb(101, 95, 101)
+    }
